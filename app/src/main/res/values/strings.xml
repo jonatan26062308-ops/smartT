@@ -2,7 +2,6 @@
 
 <resources>
     <string name="app_name">Navigation Drawer</string>
-
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="title_click">Title click</string>
@@ -13,4 +12,11 @@
     <string name="menu_send">Send</string>
     <string name="menu_group">Group</string>
     <string name="copyright">© OR SCHOOL</string>
+    <string name="menu_my_trips">My Trips</string>
+    <string name="menu_add_trip">Add New Trip</string>
+    <string name="menu_packing">Packing List</string>
+    <string name="menu_budget">Travel Budget</string>
+    <string name="menu_map">Trip Map</string>
+    <string name="menu_profile">My Profile</string>
+    <string name="menu_settings">Settings</string>
 </resources>

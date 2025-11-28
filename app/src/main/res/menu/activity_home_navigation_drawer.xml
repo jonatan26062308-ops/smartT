@@ -3,37 +3,47 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:showIn="navigation_view">
 
+    <!-- Trip Management Section -->
     <group android:checkableBehavior="single">
         <item
-            android:id="@+id/nav_about"
-            android:icon="@drawable/baseline_face_24"
-            android:title="@string/menu_camera" />
+            android:id="@+id/nav_my_trips"
+            android:title="🗂️ My Trips" />
 
-
-
-    </group>
-
-    <group
-        android:id="@+id/group1"
-        android:checkableBehavior="single">
         <item
-            android:id="@+id/nav_guide"
-            android:icon="@drawable/sharp_add_notes_24"
-            android:title="@string/menu_tools" />
+            android:id="@+id/nav_add_trip"
+            android:title="➕ Add New Trip" />
     </group>
 
-    <item android:title="@string/menu_group">
+    <!-- Trip Tools Section -->
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_packing"
+            android:title="🎒 Packing List" />
+
+        <item
+            android:id="@+id/nav_budget"
+            android:title="💰 Travel Budget" />
+
+        <item
+            android:id="@+id/nav_map"
+            android:title="🗺️ Trip Map" />
+    </group>
+
+    <!-- Account Section -->
+    <item android:title="Account">
         <menu>
             <group android:checkableBehavior="single">
                 <item
-                    android:id="@+id/nav_share"
-                    android:icon="@drawable/ic_menu_share"
-                    android:title="@string/menu_share" />
+                    android:id="@+id/nav_profile"
+                    android:title="👤 My Profile" />
 
                 <item
-                    android:id="@+id/nav_send"
-                    android:icon="@drawable/ic_menu_send"
-                    android:title="@string/menu_send" />
+                    android:id="@+id/nav_settings"
+                    android:title="⚙️ Settings" />
+
+                <item
+                    android:id="@+id/nav_logout"
+                    android:title="🚪 Logout" />
             </group>
         </menu>
     </item>
