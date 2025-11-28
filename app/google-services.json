@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1052334534376",
+    "project_id": "smartt-d61e3",
+    "storage_bucket": "smartt-d61e3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052334534376:android:56fc63c5612ad925d1235d",
+        "android_client_info": {
+          "package_name": "or.school.android.navigationdrawer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg2VGUcc8WxWG5DOZpGVxvwwvt1AzFVts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

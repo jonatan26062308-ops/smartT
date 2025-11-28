@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Navigation Drawer</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_click">Title click</string>
+    <string name="menu_camera">About</string>
+    <string name="menu_gallery">Registration/Login</string>
+    <string name="menu_tools">Guide</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="menu_group">Group</string>
+    <string name="copyright">© OR SCHOOL</string>
+</resources>
